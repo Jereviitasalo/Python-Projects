@@ -3,4 +3,6 @@ would like to visit and lowest price I'm willing to pay for them. Then the progr
 If it finds any, it will send an email about it.
 
 
-Uploading 2023-03-28 22-48-00.mp4…
+
+https://user-images.githubusercontent.com/71127112/228354233-3f6808cf-8a81-4c15-a2a7-13c7fd0b55ce.mp4
+
